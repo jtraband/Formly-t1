@@ -1,0 +1,40 @@
+{
+  "name": "J-test formly-example-app",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test"
+  },
+  "dependencies": {
+    "@angular/animations": "^14.1.2",
+    "@angular/cdk": "^14.1.2",
+    "@angular/common": "^14.1.2",
+    "@angular/compiler": "^14.1.2",
+    "@angular/core": "^14.1.2",
+    "@angular/flex-layout": "14.0.0-beta.40",
+    "@angular/forms": "^14.1.2",
+    "@angular/material": "^14.1.2",
+    "@angular/platform-browser": "^14.1.2",
+    "@angular/platform-browser-dynamic": "^14.1.2",
+    "@angular/router": "^14.1.2",
+    "@ngx-formly/bootstrap": "^6.0.0",
+    "@ngx-formly/core": "^6.0.0",
+    "@popperjs/core": "*",
+    "bootstrap": "^5.1.3",
+    "core-js": "^3.19.1",
+    "rxjs": "^7.0.0",
+    "tslib": "^2.3.1",
+    "zone.js": "~0.11.4"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^14.1.2",
+    "@angular/cli": "^14.1.2",
+    "@angular/compiler-cli": "^14.1.2",
+    "@angular/language-service": "^14.1.2",
+    "@types/node": "^12.11.1",
+    "typescript": "~4.7.4"
+  }
+}
